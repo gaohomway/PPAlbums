@@ -11,4 +11,4 @@ Paipou photo slide around Albums
 
 # License
 
-PPButton is available under the MIT license. See the LICENSE file for more info.
+PPAlbums is available under the MIT license. See the LICENSE file for more info.
